@@ -1,6 +1,6 @@
 # team member 1 changes
 change one
-change two
+change two member2
 
 # team member 2 changes
 change one
